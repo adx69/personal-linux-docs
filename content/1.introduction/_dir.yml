@@ -1,2 +1,4 @@
-icon: ph:star-duotone
-navigation.redirect: /introduction/getting-started
+# _dir.yml in the introduction directory
+icon: ph:book
+navigation:
+    title: Introduction
